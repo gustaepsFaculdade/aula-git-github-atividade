@@ -1,0 +1,3 @@
+function Inicializar() {
+    return "teste"
+}
